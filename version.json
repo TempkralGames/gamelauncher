@@ -1,0 +1,16 @@
+{
+  "Versions": [
+    {
+      "Id": "1.2.0",
+      "Name": "Stable (1.2.0)",
+      "ManifestUrl": "https://example.com/manifests/1.2.0.json",
+      "PublishedAt": "2026-03-23T12:00:00Z"
+    },
+    {
+      "Id": "1.1.0",
+      "Name": "Beta (1.1.0)",
+      "ManifestUrl": "https://example.com/manifests/1.1.0.json",
+      "PublishedAt": "2025-12-15T09:30:00Z"
+    }
+  ]
+}
